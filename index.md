@@ -1,10 +1,10 @@
-## Welcome to Ilias' GitHub Pages
+## Profile
  
- Hi, I am a graduate student in the [De Carvalho Lab](http://www.decarvalholab.org/) at the Princess Margaret Cancer Centre in Toronto, Canada.
+ I am a graduate student in the [De Carvalho Lab](http://www.decarvalholab.org/) at the Princess Margaret Cancer Centre in Toronto, Canada.
 
 ### Research Interests
 
-I am interesting in studying the role of Cancer Initiating Cell in the context of colorectal cancer. More specifically, I am interested in studying mechanisms involved in regulating cancer "stemness". Some key topics of interest include :
+I am interested in studying the role of Cancer Initiating Cell in the context of colorectal cancer. More specifically, I am interested in studying mechanisms involved in regulating cancer "stemness". Some key topics of interest include :
 
 1. Epigenetic therapy  
 * The use of DNA Demethylating Agents to target Cancer Initiating Cell.
